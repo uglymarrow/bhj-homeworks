@@ -23,3 +23,15 @@
 * [Введение в события DOM](https://frontender.info/an-introduction-to-dom-events/)
 * [Введение в браузерные события](https://learn.javascript.ru/introduction-browser-events)
 * [addEventListener vs onclick](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick/6348597#6348597)
+* [addEventListener](https://developer.mozilla.org/ru/docs/Web/API/EventTarget/addEventListener)
+* [Всплытие и перехват](https://learn.javascript.ru/event-bubbling)
+* [Делегирование событий](https://learn.javascript.ru/event-delegation)
+* [Event.currentTarget](https://developer.mozilla.org/ru/docs/Web/API/Event/currentTarget)
+* [Event.target](https://developer.mozilla.org/ru/docs/Web/API/Event/target)
+* [Создание собственных событий](https://developer.mozilla.org/ru/docs/Web/Guide/Events/Создание_и_вызов_событий)
+* [CustomEvent](https://developer.mozilla.org/ru/docs/Web/API/CustomEvent)
+* [Генерация событий на элементах](https://learn.javascript.ru/dispatch-events)
+
+
+## ОБУЧАЮЩИЕ ИГРЫ
+* «Elevator Saga»: https://play.elevatorsaga.com
