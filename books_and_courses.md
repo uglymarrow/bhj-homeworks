@@ -31,7 +31,24 @@
 * [Создание собственных событий](https://developer.mozilla.org/ru/docs/Web/Guide/Events/Создание_и_вызов_событий)
 * [CustomEvent](https://developer.mozilla.org/ru/docs/Web/API/CustomEvent)
 * [Генерация событий на элементах](https://learn.javascript.ru/dispatch-events)
+* [Разбираемся с критичным CSS](http://prgssr.ru/development/razbiraemsya-s-kritichnym-css.html)
+* [Критический CSS + прогрессивный CSS = ?](https://medium.com/web-standards/critical-and-progressive-css-d6611f034d7d)
+* [Предварительная загрузка контента при помощи rel="preload"](https://developer.mozilla.org/ru/docs/Web/HTML/Preloading_content)
+* [Remove Render-Blocking JavaScript](https://developers.google.com/speed/docs/insights/BlockingJS)
+* [Оптимизация JavaScript для быстрой визуализации страницы](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/adding-interactivity-with-javascript?hl=ru)
+* [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) 
+* [Node](https://developer.mozilla.org/ru/docs/Web/API/Node)
+* [Element](https://developer.mozilla.org/ru/docs/Web/API/Element)
+* [12 типов узлов](https://developer.mozilla.org/ru/docs/Web/API/Node/nodeType)
+* [Атрибуты и DOM-свойства](https://learn.javascript.ru/attributes-and-custom-properties)
+* [Использование data-* атрибутов](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Using_data_attributes)
+* [Координаты в окне](https://learn.javascript.ru/coordinates)
+* [Element.getBoundingClientRect()](https://developer.mozilla.org/ru/docs/Web/API/Element/getBoundingClientRect)
+* [Translating Viewport Coordinates Into Element-Local Coordinates Using Element.getBoundingClientRect()](https://www.bennadel.com/blog/3441-translating-viewport-coordinates-into-element-local-coordinates-using-element-getboundingclientrect.htm)
 
 
 ## ОБУЧАЮЩИЕ ИГРЫ
 * «Elevator Saga»: https://play.elevatorsaga.com
+
+## ПРЕЗЕНТАЦИИ
+* [Critical JavaScript Path](https://speakerdeck.com/jonthanfielding/critical-javascript-path) 
