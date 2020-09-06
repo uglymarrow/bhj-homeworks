@@ -45,7 +45,9 @@
 * [Координаты в окне](https://learn.javascript.ru/coordinates)
 * [Element.getBoundingClientRect()](https://developer.mozilla.org/ru/docs/Web/API/Element/getBoundingClientRect)
 * [Translating Viewport Coordinates Into Element-Local Coordinates Using Element.getBoundingClientRect()](https://www.bennadel.com/blog/3441-translating-viewport-coordinates-into-element-local-coordinates-using-element-getboundingclientrect.htm)
-
+* [Формы и javascript. FORM](https://htmlweb.ru/java/forms.php)
+* [Руководство по HTML-формам](https://developer.mozilla.org/ru/docs/Learn/HTML/Forms)
+* [Навигация и свойства элементов формы](https://learn.javascript.ru/form-elements)
 
 ## ОБУЧАЮЩИЕ ИГРЫ
 * «Elevator Saga»: https://play.elevatorsaga.com
