@@ -3,14 +3,19 @@ let tasksList = document.getElementById('tasks__list');
 let addButton = document.getElementById('tasks__add');
 
 document.onkeydown = event => {
-    if ((event.key == "Enter") && (taskInput.value != '')) {
+    if (event.key == "Enter") {
+      if (taskInput.value != '')
         addTask();
-        return false;
+      return false;
     };
     return true;
 };
 
-addButton.addEventListener('click', event => addTask());
+addButton.addEventListener('click', event => {
+  if (taskInput.value != '')
+    addTask();
+  event.preventDefault();
+});
 
 function addTask() {
   tasksList.insertAdjacentHTML('afterbegin',
